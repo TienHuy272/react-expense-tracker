@@ -33,7 +33,7 @@ const Main = () => {
         >
           <InfoCard />
         </Typography>
-        <Divider />
+        <Divider className={classes.divider} />
         <Form />
       </CardContent>
       <CardContent className={classes.cartContent}>
