@@ -28,7 +28,7 @@ const Main = () => {
           style={{ lineHeight: '1.5em', marginTop: '20px' }}
           variant='subtitle1'
         >
-          test...
+          Try saying: Add income for $100 in Category Salary for Monday...
         </Typography>
         <Divider />
         <Form />
